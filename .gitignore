@@ -6,6 +6,7 @@ out/
 run/
 generated/
 generated-test/
+generator/
 
 #Files
 gradle.properties
