@@ -37,9 +37,7 @@ repositories {
 }
 
 dependencies {
-    compile "com.github.SocraticPhoenix:Jource:master-SNAPSHOT"
-    compile "com.github.SocraticPhoenix:Parse:master-SNAPSHOT"
-    compile "com.github.SocraticPhoenix:Mirror:master-SNAPSHOT"
+
 }
 //End Repositories and Dependencies
 
